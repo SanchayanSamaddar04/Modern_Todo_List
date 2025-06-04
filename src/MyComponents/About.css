@@ -1,0 +1,29 @@
+.about-page {
+  background: linear-gradient(to right, #fceabb, #f8b500);
+  min-height: 100vh;
+  padding: 60px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-card {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+  text-align: center;
+}
+
+.about-heading {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ff6600;
+}
+
+.about-image {
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 10px;
+}
